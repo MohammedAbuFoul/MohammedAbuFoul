@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammedAbuFoul
 - 👀 I’m interested in Python, Php and WebDev
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Python projects
+- 💞️ I’m looking to collaborate on Laravel and FastApi projects
 
 
 <!--- - 📫 How to reach me ...
